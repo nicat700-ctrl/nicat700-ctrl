@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Nicat 👋
 
-<!--
-**nicat700-ctrl/nicat700-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student interested in Computer Science and Cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy learning programming, building projects, and exploring how technology works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Python
+- Cybersecurity basics
+- Machine Learning basics
+- Flask
+- Git & GitHub
+
+---
+
+## Projects
+
+🔐 **Password Generator**  
+Python tool for creating secure passwords.
+
+🔑 **Password Strength Checker**  
+Checks password security level.
+
+🌐 **Port Scanner**  
+Simple network scanning tool built with Python.
+
+🤖 **Phishing Detector AI**  
+Machine learning project for detecting phishing messages.
+
+🔒 **Password Manager Encryption**  
+Password storage system using encryption.
+
+📊 **Cybersecurity Dashboard**  
+Web dashboard built with Flask.
+
+---
+
+## Currently Learning
+
+- Cybersecurity
+- Python development
+- Machine Learning
+
+---
+
+## Contact
+
+GitHub: @nicat700-ctrl  
+Email: nicatsfrov700@gmail.com

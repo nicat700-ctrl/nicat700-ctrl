@@ -1,48 +1,67 @@
 # Hi, I'm Nicat 👋
 
-High school student interested in Computer Science and Cybersecurity.
-
-I enjoy learning programming, building projects, and exploring how technology works.
+High school student passionate about Cybersecurity and Computer Science, with hands-on experience in Python programming, networking projects, and Arduino development.
 
 ---
+
+## Education
+
+### Junior Computer Academy ITSTEP (2023–2026)
+
+Completed a 3-year program with an International Diploma.
+
+Relevant coursework:
+
+- Python Programming
+- Networks and Cybersecurity
+- Web Design (HTML & CSS)
+- Programming Devices on Arduino
+- Game Development (Unity)
+- Robotics and Technology
+- Startup and Freelance
+
 
 ## Skills
 
 - Python
-- Cybersecurity basics
-- Machine Learning basics
-- Flask
-- Git & GitHub
+- Cybersecurity Fundamentals
+- HTML
+- Basic CSS
 
 ---
 
 ## Projects
 
-🔐 **Password Generator**  
-Python tool for creating secure passwords.
+Here are some of the projects I have built to improve my programming and cybersecurity skills.
 
-🔑 **Password Strength Checker**  
-Checks password security level.
+🔐 Password Generator
+Python application for generating secure random passwords.
 
-🌐 **Port Scanner**  
-Simple network scanning tool built with Python.
+🔑 Password Strength Checker
+Evaluates password strength using multiple security criteria.
 
-🤖 **Phishing Detector AI**  
-Machine learning project for detecting phishing messages.
+🌐 Port Scanner
+Scans open TCP ports on a target host.
 
-🔒 **Password Manager Encryption**  
-Password storage system using encryption.
+🛡️ Network Scanner
+Discovers devices connected to a local network.
 
-📊 **Cybersecurity Dashboard**  
-Web dashboard built with Flask.
+🎮 Unity Platform Game
+2D platform game developed in Unity.
+
+🏎️ Unity Racing Game
+Simple racing game created with Unity.
+
+🐦 Smart Bird House (Arduino)
+Arduino-based smart bird house with automated feeding and monitoring of temperature, food, and water levels.
 
 ---
 
 ## Currently Learning
 
 - Cybersecurity
-- Python development
-- Machine Learning
+- Python Development
+- Web Security
 
 ---
 
@@ -50,3 +69,5 @@ Web dashboard built with Flask.
 
 GitHub: @nicat700-ctrl  
 Email: nicatsfrov700@gmail.com
+
+⭐ I'm always eager to learn new technologies and improve my skills through real-world projects.

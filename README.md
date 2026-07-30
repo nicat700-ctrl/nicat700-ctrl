@@ -46,11 +46,11 @@ Scans open TCP ports on a target host.
 🛡️ Network Scanner
 Discovers devices connected to a local network.
 
-🎮 Unity Platform Game
-2D platform game developed in Unity.
+🎮 Unity 2D Platform Game
+2D platform game built with Unity.
 
-🏎️ Unity Racing Game
-Simple racing game created with Unity.
+🏎️ Unity 3D Racing Game
+3D racing game built with Unity.
 
 🐦 Smart Bird House (Arduino)
 Arduino-based smart bird house with automated feeding and monitoring of temperature, food, and water levels.
